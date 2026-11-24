@@ -40,13 +40,13 @@ Le projet est organisé en plusieurs packages :
 1. Cloner le dépôt :
 
    ```bash
-   git clone https://github.com/VOTRE_IDENTIFIANT/StageTracker.git
+   git clone https://github.com/oussamael15/stagetracker.git
    ```
 
 2. Accéder au dossier :
 
    ```bash
-   cd StageTracker
+   cd stagetracker
    ```
 
 3. Lancer l'application :
